@@ -18,7 +18,8 @@ const Header = () => {
     return (
         <>
             <div>
-                <Button 
+                <Button
+                zIndex={'overlay'}
                 position={'fixed'} 
                 top={'4'} left={'4'} 
                 colorScheme='purple' 

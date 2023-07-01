@@ -43,22 +43,10 @@ const Home = () => {
             lineHeight={'190%'}
             p={['4', '16']}
             textAlign={'center'}
+            fontFamily={'cursive'}
             >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad nemo
-            tempora deleniti quod, est eos veniam autem asperiores rem, nam
-            laudantium ut, similique ducimus amet sequi et voluptas iusto rerum
-            at aliquid numquam corporis ipsa reprehenderit? Porro iusto magnam,
-            sit vero deleniti, non nemo rem accusamus neque, quibusdam ab.
-            Libero, reprehenderit recusandae labore eaque, aspernatur aliquid
-            modi soluta ullam voluptatum unde repellat in molestias quod?
-            Doloribus ratione illum quisquam earum consequuntur nam voluptatem,
-            velit culpa maiores. Inventore esse illum excepturi dolores est
-            natus aliquid maiores sunt omnis deserunt accusantium amet enim eos
-            adipisci minima hic, nam provident quo aperiam quasi vel?
-            Dignissimos accusantium aliquid aut vel explicabo voluptatum
-            molestias fugit harum reprehenderit incidunt. Quis cumque explicabo
-            omnis officiis autem dolorum!
-          </Text>
+                I am Krishna Kumar Raut, a front-end developer studying at VIT Vellore. With a strong problem-solving ability, I specialize in developing responsive websites and have mastered HTML, CSS, JavaScript, and React. I enjoy tackling complex challenges and delivering innovative solutions. My expertise ensures user-friendly and visually appealing websites. I understand responsive design principles, creating optimal experiences across devices. Proficient in HTML, CSS, and JavaScript, I build dynamic and interactive websites. With React, I utilize components and state management for modern web applications. Staying updated with industry trends, I provide cutting-edge solutions. I am dedicated to exceeding client expectations and delivering exceptional front-end development services.
+            </Text>
                 </Stack>
             </Container>
         </Box>
